@@ -59,4 +59,4 @@ Desktop.ini
 ./site/
 
 # Python interpreter
-./myenv/
+myenv/
